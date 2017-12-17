@@ -1,0 +1,10 @@
+Number of users collected: 98
+Number of messages collected: 138
+Number of communities discovered: 11
+Average number of users per community: 4591
+Number of instances per class found:
+     Number of instances of Positive class: 38
+     Number of instances of Negative class: 91
+One example from each class:
+     Example of instances of Positive Class:: ['#Google Updates Docs, Slides, and Sheets Apps with #iPhoneX, #iPad Drag and Drop Support for #iOS11… https://t.co/tZqd3FTTH9\n']
+     Example of instances of Negative Class:: ['People who return their #iPhoneX for any reason other than monetary ones, have serious tech anxiety issue. Such peo… https://t.co/gi9teItpkp\n']
